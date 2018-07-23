@@ -2,7 +2,7 @@
 Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.name        = 'spree_item_returns'
-  s.version     = '3.3.0'
+  s.version     = '3.2.0'
   s.summary     = 'Spree Item Returns'
   s.description = '
                     At User-End
